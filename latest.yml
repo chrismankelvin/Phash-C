@@ -1,0 +1,16 @@
+# owner: chrismankelvin
+# repo: Phash-C
+# provider: github
+# updaterCacheDirName: updating-updater
+owner: chrismankelvin
+repo: Phash-C
+provider: github
+updaterCacheDirName: updating-updater
+version: 0.0.0
+files:
+  - url: phash-C Setup 0.0.0.exe
+    sha512: FC21BD12AAC59F252A588B49F84820E2FB29590094C402740E5113F5253D8BDAA63...
+    size: 91789745
+path: phash-C Setup 0.0.0.exe
+sha512: FC21BD12AAC59F252A588B49F84820E2FB29590094C402740E5113F5253D8BDAA63...
+releaseDate: 2025-03-21T12:00:00.000Z
